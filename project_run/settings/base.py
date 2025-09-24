@@ -27,6 +27,11 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
+#Custom variables
+COMPANY_NAME = 'Старые перцы'
+SLOGAN = 'Растрясываем жирок'
+CONTACTS = 'Мой адрес - Советский Союз'
+
 
 # Application definition
 
